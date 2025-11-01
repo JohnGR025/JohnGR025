@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JohnGR025
-- 👀 I’m interested in Web/Game/Programms Development 
-- 🌱 I’m currently learning C, C++
-- 💞️ I already know a bit about HTML, CSS, JavaScript
+- 👀 I’m interested in Web/Game/Programm Development 
+- 🌱 I’m currently learning C, java
+- 💞️ I already know a bit about HTML, CSS, JavaScript, Python
 
 <!---
 JohnGR025/JohnGR025 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
