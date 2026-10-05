@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @JohnGR025
-- 👀 I’m interested in Web/Game/Programm Development 
-- 🌱 I’m currently learning java
-- 💞️ I know a bit about C, HTML, CSS, JavaScript, Python.
+- 👋 Hi, I’m John Nektarios Bourbouriotis.
+- 👀 I’m interested in Web/Game/Programm Development.
+- Languages I have practiced with:c, c++, c# java, html/CSS, JavaScript and python.
 
 <!---
 JohnGR025/JohnGR025 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
