@@ -1,4 +1,4 @@
-- 👋 Hi, I’m John Nektarios Bourbouriotis.
+- 👋 Hi, I’m @John_Nektarios_Bourbouriotis.
 - 👀 I’m interested in Web/Game/Programm Development.
 - Languages I have practiced with:c, c++, c# java, html/CSS, JavaScript and python.
 
